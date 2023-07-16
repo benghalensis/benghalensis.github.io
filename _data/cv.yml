@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Srivatsa Grama Satyanarayana
+    - name: Year of Birth
+      value: 1996
 
 - title: Education
   type: time_table
@@ -94,4 +92,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Hobbies:- Hobby 1, Hobby 2, etc.

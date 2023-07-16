@@ -1,25 +1,22 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of Washington</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome. As a Master's student at the <a href='https://www.washington.edu/'>University of Washington</a>, my primary areas of study include Robotics, Localization, SLAM, and Computer Vision. I am currently contributing to DARPA's Robotic Autonomy in Complex Environments with Resiliency (RACER) program under the guidance of Prof. Byron Boots.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my academic journey, I had the opportunity to collaborate with <a href='https://homes.cs.washington.edu/~mcakmak/'>Prof. Maya Cakmak</a> and Prof. <a href='https://www.cs.washington.edu/people/faculty/jrs'>Prof. Joshua R Smith</a> on the Amazon-UW Robotics Manipulation Research. This project entailed generating robot grasps for unfamiliar objects using RGBD cameras. Furthermore, my research experience extends to a project with <a href='http://faculty.washington.edu/ashisb/'>Prof. Ashis Banerjee</a> at the <a href='http://depts.washington.edu/uwsmarts/index.html'>SMARTS</a> lab, focusing on object pose prediction via vision-based methodologies.
+
+In the professional sphere, I am currently an intern at <a href='https://www.thirdwave.ai/'>Third Wave Automation</a>, where my role involves LiDAR-based localization within warehouse contexts. My previous industry experience includes working as a Perception Intern at <a href='https://voaige.com/'>Voaige</a> where I further developed my expertise in object grasping technology.
